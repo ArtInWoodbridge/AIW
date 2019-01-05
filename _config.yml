@@ -1,1 +1,13 @@
-theme: jekyll-theme-minimal
+remote_theme: "broccolini/swiss"
+
+theme_color: orange
+
+title: Art In Woodbridge
+description: Art in Woodbridge (AIW) is committed to fostering community through art in Woodbridge and the surrounding Detroit area. By nurturing creativity and investing in artists, Art in Woodbridge hopes to further restore Detroit to its former status as one of the Midwest’s finest art destinations.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://artinwoodbridge.com"
+github_repo: ArtInWoodbridge # the GitHub repo name for your project
+github_username: ArtInWoodbridge
+pages:
+  - About
+  - Artists
