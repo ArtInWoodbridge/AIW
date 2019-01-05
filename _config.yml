@@ -1,3 +1,6 @@
+plugins:
+  - "jekyll-remote-theme"
+
 remote_theme: "broccolini/swiss"
 
 theme_color: orange
